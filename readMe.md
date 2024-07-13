@@ -1,0 +1,1 @@
+This code was written as part of my introduction to the full-blockchain-solidity-course-js course by @PatrickAlphaC
